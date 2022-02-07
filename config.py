@@ -1,0 +1,6 @@
+customhost = "employee.ccjfefi0z7k2.us-east-2.rds.amazonaws.com"
+customuser = "healthcard"
+custompass = "healthcard"
+customdb = "employee"
+custombucket = "myemployeedata"
+customregion = "us-ohio-west"
